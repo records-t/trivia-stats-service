@@ -33,3 +33,6 @@ Output:
 Requesting first statistics ...
 {'correctAnswers': 7, 'totalQuestions': 10, 'overallScore': 70.0, 'longestStreak': 4, 'finalGrade': 'C'}
 
+UML Diagram:
+
+![microserviceuml](https://github.com/records-t/trivia-stats-service/assets/148019253/225a46cb-3e4a-4956-ae01-873aa2588253)

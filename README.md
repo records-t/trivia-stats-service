@@ -1,5 +1,7 @@
 # trivia-stats-service
-Basic REST API microservice running on python Fast API and python Uvicorn for the web server. Takes statistics from a trivia app in JSON format to a POST endpoint and returns a JSON dictionary with the processed results. I am providing the main file and a sample client to demonstrate its functionality. If they are not installed already, you will need the Fast API package, the Uvicorn package (installed as part of Fast API depending on installation choice), and the requests package if you want to run the client.
+Basic REST API microservice running on python Fast API and python Uvicorn for the web server. Takes statistics from a trivia app in JSON format to a POST endpoint and returns a JSON dictionary with the processed results. Stats are processed via a method on the backend of the service.
+
+I am providing the main file and a sample client to demonstrate its functionality. If they are not installed already, you will need the Fast API package, the Uvicorn package (installed as part of Fast API depending on installation choice), and the requests package if you want to run the client.
 
 Functionality is likely not fully finished; more features are likely to be implemented in the future.
 
